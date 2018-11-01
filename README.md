@@ -5,4 +5,4 @@ Legend:
 1. WP - Wordpress
 
 List of Scripts:
-WP-UnRegenerateThumbnails.py - remove all the images of different dimensions created by Wordpress Regenerate Thumbnails plugin.
+1. WP-UnRegenerateThumbnails.py - remove all the images of different dimensions created by Wordpress Regenerate Thumbnails plugin.
